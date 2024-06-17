@@ -1,40 +1,40 @@
 # Avaliação final
 Alunos: Pedro Balen e Miguel Toller 
 
-- sistema gerenciador de banco de dados
+- sistema gerenciador de banco de dados: 
 	SGBD é um software dente de banco de dados que permite criar, gerenciar e manipular banco de dados
 	de maneira eficiente e segura.
 
-- restrições em banco de dados
+- restrições em banco de dados: 
 	São regras que garantem a integridade dos dados presentes na tabela, por exemplo 
 	chave primária, chave estrangeira, NOT NULL, UNIQUE, CHECK, e DEFAULT.
 
-- modelo relacional
+- modelo relacional: 
 	Modelo de dados que organiza os dados em tabela, ou seja, criando as relações através de linhas e colunas.
 
-- modelagem conceitual
+- modelagem conceitual: 
 	Fase inicial do desenvolvimento do banco, onde se define a estrutura lógica do sistema através do
 	diagrama de Entidade-Relacionamento.
 	
-- modelagem lógica
+- modelagem lógica: 
 	O modelo conceitual é transformado em um esquema lógico, detalhando as tabelas, colunas e relações.
 	
-- modelagem física
+- modelagem física: 
 	Converte o modelo logico em um esquema fisico específico de um SGBD, por exemplo MySQL.
 	
-- linguagem SQL
+- linguagem SQL: 
 	Linguagem padrão para manipulação e gerenciamento de banco relacional, possui comandos para
 	definição, manipulação e controle de dados.
 	
-- Data Definition Language (DDL)
+- Data Definition Language (DDL): 
 	Métodos dentro do SQL que auxilia na definição da estrutura do banco de dados, por exemplo CREATE,
 	DROP, ALTER, TRUNCATE.
 	
-- Data Manipulation Language (DML)
+- Data Manipulation Language (DML): 
 	Métodos dentro do SQL que auxilia na manipulação da estrutura do banco de dados, por exemplo SELECT,
 	INSERT, UPDATE, DELETE.
 
-- Boas práticas em modelagem de banco de dados
+- Boas práticas em modelagem de banco de dados: 
 	Evitar o uso de ON DELETE CASCADE.
 	Criação de tabelas de acordo com o relacionamento dos dados.
 	Evitar redundâncias.
